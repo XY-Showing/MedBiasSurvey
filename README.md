@@ -69,7 +69,6 @@ Below are selected models analyzed in the survey.
 | **Med-PaLM 2** | PaLM 2 | ≥ 175B | No |
 | **Meditron** | LlaMa-2 | 70B-175B | Yes |
 | **PMC-LlaMa** | LlaMa | 10B-70B | Yes |
-| **BioGPT** | GPT | < 1B | Yes |
 | **LLaVA-Med** | LLaVA | 1B-10B | Yes |
 | **ClinicalBERT** | ClinicalBERT | < 1B | Yes |
 
