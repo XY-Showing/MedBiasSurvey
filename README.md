@@ -12,7 +12,7 @@ Large AI models (including LLMs, LVMs, and LMMs) are transforming healthcare, ye
 
 <br>
 <p align="center">
-  <img src="assets/overview.png" alt="Overview of Medical AI Bias" width="800">
+  <img src="MedicalBiasOverview.png" alt="Overview of Medical AI Bias" width="800">
   <br>
   <em>Figure 1: An overview of bias in Large AI models for medicine and healthcare.</em>
 </p>
